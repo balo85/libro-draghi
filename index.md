@@ -4,7 +4,7 @@
 
   <!-- Colonna di Sinistra: GIF -->
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="asset/drago.gif" alt="Gif di Leo" style="width: 100%; max-width: 300px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <img src="assets/drago.gif" alt="Gif di Leo" style="width: 100%; max-width: 300px; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </div>
 
   <!-- Colonna di Destra: Scheda ed Info -->
