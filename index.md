@@ -1,5 +1,8 @@
 # 🐉 Leo - Scheda Personaggio
 
+<p align="center">
+  <img src="asset/drago.gif" alt="Gif di Leo" width="300" height="300" />
+</p>
 ---
 
 ## 📋 Informazioni Generali
